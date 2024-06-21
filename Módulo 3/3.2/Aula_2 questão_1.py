@@ -1,3 +1,4 @@
+
 Idade_Juliana = int(input())
 Idade_Chris = int(input())
 

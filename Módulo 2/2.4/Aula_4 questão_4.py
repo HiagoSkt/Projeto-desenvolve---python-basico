@@ -1,3 +1,4 @@
+
 Valor = int(input("Digite o valor"))
 
 Notas_100 = Valor // 100

@@ -1,3 +1,4 @@
+
 Genêro = input()
 Idade = int(input())
 Tempo = int(input())
